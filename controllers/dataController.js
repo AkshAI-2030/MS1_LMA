@@ -1,4 +1,3 @@
-const { text } = require("express");
 const {
   User: userModel,
   Book: bookModel,
